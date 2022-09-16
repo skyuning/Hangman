@@ -44,7 +44,7 @@ def guess_next_letter(pattern, used_letters=[], word_list=[]):
 
 
 def test_function_should_return_something():
-    pattern = "acce_t"
+    pattern = "_____d"
     used_letters = list("abcde")
     word_list = ['about', 'abound', 'aboard', 'abroad', 'abrupt',
                  'absent', 'absorb', 'absurd', 'accent', 'accept', 'access']
